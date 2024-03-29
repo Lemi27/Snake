@@ -11,9 +11,9 @@ This is a simple implementation of the classic Snake Game in Java. The game prov
 1. **Download Zip File**: Click on the "Code" button and select "Download ZIP" to download the source code.
 2. **Extract Zip File**: Extract the downloaded ZIP file to your desired directory.
 3. **Navigate to Bin Directory**: Open a terminal or command prompt and navigate to the `bin` directory within the extracted folder using the following command:
-   cd path/to/extracted/folder/bin
+   `cd path/to/extracted/folder/bin`
 4. **Run the Program**: Execute the following command to run the Snake Game:
-   java SnakeGame
+   `java SnakeGame`
 
 ## Gameplay Instructions
 
